@@ -4,7 +4,7 @@
 }
 
 .content {
-/*     display: flex; */
+    display: flex;
     background-image: url("./MediaLabs_Images/Black logo - no background.png");
     background-size: contain;
     background-size: 40%;
@@ -190,12 +190,12 @@
     text-decoration: none;
 }
 
-.schedule-call-8 {
+/* .schedule-call-8 {
     color: darkgrey;
     margin-top: 15px;
     margin-left: 60px;
     transform: scale(1.2);
-}
+} */
 
 .schedule-call-9 {
     font-size: medium;
