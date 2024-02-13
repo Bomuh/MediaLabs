@@ -5,6 +5,7 @@
 
 .content {
     display: flex;
+    display: grid;
     background-image: url("./MediaLabs_Images/Black logo - no background.png");
     background-size: contain;
     background-size: 40%;
